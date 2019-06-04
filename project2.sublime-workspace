@@ -1,0 +1,394 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"al",
+				"vertical-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"bode",
+				"border\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-clip\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"a",
+				"auto\tgrid-template-columns"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"background-s",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"va",
+				"valueInfo"
+			],
+			[
+				"search",
+				"searchInput"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"too",
+				"todos"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"class",
+				"classname"
+			],
+			[
+				"w",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 19177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project2-cvonline"
+	],
+	"file_history":
+	[
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project1-zingmp3/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project2-cvonline/index.css",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project1-zingmp3/index.css",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project2-cvonline/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project/project1-zingmp3/code/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project1-zingmp3/code/index.css",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project1-zingmp3/code/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project1-zingmp3/img/saved_resource.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Project1-zingmp3/code/style.css",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Bootstrap/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Bootstrap/part1.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Bootstrap/part1",
+		"/C/Users/Khoai Khoai/Desktop/Coder/Bootstrap/style.css",
+		"/C/Users/Khoai Khoai/Desktop/Coder/CSS/index.html",
+		"/C/Users/Khoai Khoai/Desktop/Coder/CSS/style.css",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai20/public/index.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/example18.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/db.json",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai18b.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai18a.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai14b.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/index.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/example16.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/a.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai25.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai20/index.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai13b.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/firebase-debug.log",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai13c.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/example.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/bai12a.html",
+		"/C/Users/Khoai Khoai/Desktop/HTML/index.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 19177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
